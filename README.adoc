@@ -20,7 +20,7 @@
 
 == Overview
 
-This repository delivers a shaded OSGi bundle of a https://github.com/googleapis/google-oauth-java-client/tree/main/google-oauth-client[_Google OAuth Client Library for Java_^] artifact for running inside the https://github.com/ciechanowiec/sling_rocket[_Sling Rocket_^] environment.
+This repository delivers a shaded OSGi bundle of a https://github.com/googleapis/google-oauth-java-client/tree/eb0a1899a0f6368ef2e060e938bf6ab5d369d168/google-oauth-client[_Google OAuth Client Library for Java_^] artifact for running inside the https://github.com/ciechanowiec/sling_rocket[_Sling Rocket_^] environment.
 
 [upperalpha]
 . Maven coordinates for the bundle delivered by this repository:
